@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm bloodykheeng aka bk.</h1>
-<h3 align="center">I am a versatile Full Stack Software Developer with a passion for crafting intuitive user experiences through UI/UX design. I have expertise in React.js, Laravel, and MySQL, with a proven track record in developing seamless, responsive, and visually appealing applications that align with user needs and business goals.</h3>
+<h3 align="center">I am a versatile Full Stack Software Developer, passionate about creating intuitive user experiences through UI/UX design. I specialize in React.js, Laravel, and MySQL, with a proven ability to develop seamless, responsive, and visually engaging applications that meet both user needs and business objectives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bloodykheeng&label=Profile%20views&color=0e75b6&style=flat" alt="bloodykheeng" /> </p>
 
