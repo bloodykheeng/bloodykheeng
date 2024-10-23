@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm bloodykheeng aka bk.</h1>
 <h3 align="center">I am a versatile Full Stack Software Developer, passionate about creating intuitive user experiences through UI/UX design. I specialize in React.js, Laravel, and MySQL, with a proven ability to develop seamless, responsive, and visually engaging applications that meet both user needs and business objectives.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bloodykheeng&label=Profile%20views&color=0e75b6&style=flat" alt="bloodykheeng" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bloodykheeng&theme=onedark&label=Profile%20views&color=0e75b6&style=flat" alt="bloodykheeng" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bloodykheeng" alt="bloodykheeng" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bloodykheeng&theme=onedark" alt="bloodykheeng" /></a> </p>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif"/>
 
